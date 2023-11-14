@@ -1,5 +1,5 @@
 body{
-    background-image: url(/images/backgroundImage.png);
+    background-color: black;
     mask-repeat: no-repeat;
     background-size: cover;
 }
@@ -7,9 +7,10 @@ header{
     border: 10px;
     height: 75px;
     
-    background-color: rgb(238, 246, 242);
+    background-color: rgb(240, 240, 240);
     margin: -25px;
 }
+
 img{
     margin-left: 1230px;
     margin-top: 20px;
